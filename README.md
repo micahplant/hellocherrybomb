@@ -1,4 +1,4 @@
 # hellocherrybomb
 first
 this is how you do it <br>
-<i>no THIS is how you do it</i>
+<i><font color = 'red'>no <b>THIS</b> is how you do it</font></i>
